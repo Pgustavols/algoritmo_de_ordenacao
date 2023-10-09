@@ -1,0 +1,50 @@
+[
+    {
+        "nome": "JavaScript",
+        "preco": 25
+    },
+    {
+        "nome": "PHP",
+        "preco": 15
+    },
+    {
+        "nome": "Java",
+        "preco": 30
+    },
+    {
+        "nome": "Elixir",
+        "preco": 50
+    },
+    {
+        "nome": "Go",
+        "preco": 45
+    },
+    {
+        "nome": "Python",
+        "preco": 20
+    }, 
+    {
+        "nome": "Ruby",
+        "preco": 10
+    },
+    {
+        "nome": "SQL",
+        "preco": 40
+    },
+    {
+        "nome": "Swift",
+        "preco": 35
+    },
+    {
+        "nome": "NOSQL",
+        "preco": 43
+    },
+    {
+        "nome": "HTML",
+        "preco": 17
+    },
+    {
+        "nome": "C#",
+        "preco": 60
+    }
+]
